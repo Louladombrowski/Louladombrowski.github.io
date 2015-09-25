@@ -6,7 +6,7 @@ categories: release
 author: Loula
 ---
 
-![Loula](http://localhost:4000/images/IMG_2300.JPG)
+![Loula](http://http://louladombrowski.github.io/images/IMG_2300.JPG)
 *Loula dombrowski dans copelia*
 
 Loula dombrowski

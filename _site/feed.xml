@@ -6,8 +6,8 @@
 </description>
     <link>http://dockermeetupsinbordeaux.github.io/</link>
     <atom:link href="http://dockermeetupsinbordeaux.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Sep 2015 22:25:15 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2015 22:25:15 +0800</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2015 16:13:07 +0800</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2015 16:13:07 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -98,7 +98,9 @@ Paris 75011.&lt;/p&gt;
     
       <item>
         <title>Parution / Reportage</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/image2.JPG&quot; alt=&quot;Loula&quot; /&gt;
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ORW7cPE2eSk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/image2.JPG&quot; alt=&quot;Loula&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/IMG_2339.JPG&quot; alt=&quot;Loula&quot; /&gt;
