@@ -43,7 +43,7 @@ Les jours et les horaires
 
 <br/>
 
-![Loula](louladombrowski.github.io/images/IMG_2296.JPG)
+![Loula](http://louladombrowski.github.io/images/IMG_2296.JPG)
 *Loula dombrowski dans colombine*
 <br/>
 
