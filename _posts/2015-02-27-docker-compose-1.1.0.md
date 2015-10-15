@@ -47,10 +47,10 @@ Les jours et les horaires
 *Loula dombrowski dans colombine*
 <br/>
 
-![Loula](http://louladombrowski.github.io/images/IMG_2298.JPG)
+![Loula](http://louladombrowski.github.io/images/IMG_2298.jpg)
 *Loula dombrowski et Félix blaszka dans l homme au loup au festival d Avignon*
 <br/>
 
-![Loula](http://louladombrowski.github.io/images/IMG_2301.JPG)
+![Loula](http://louladombrowski.github.io/images/IMG_2301.jpg)
 *Loula dombrowski et Michael Debard*
 <br/>
